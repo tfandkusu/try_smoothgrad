@@ -1,1 +1,3 @@
 .vscode
+train.hdf5
+.DS_Store
