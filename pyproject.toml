@@ -12,6 +12,7 @@ h5py = "^2.10.0"
 tensorflow = "^2.3.0"
 ipykernel = "^5.3.4"
 matplotlib = "^3.3.2"
+tqdm = "^4.49.0"
 
 [tool.poetry.dev-dependencies]
 
